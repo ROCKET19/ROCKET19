@@ -7,5 +7,6 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 Pursuing Data Scientist 
-- 🌱 Machine Learning
+- 💻 Masters in Computer Application
+- 🔭 Aspiring Data Scientist 
+- ❤ Currently Learning Machine Learning
