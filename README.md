@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 ### My Stack
 
-<img align="left" alt="PyTorch" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpytorch.org%2Fget-started&psig=AOvVaw2y7EvnE6CGrJLMRHutqWra&ust=1636201121492000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCVvaeagfQCFQAAAAAdAAAAABAI" />
+<img align="left" alt="PyTorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"/>
