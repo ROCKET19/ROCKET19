@@ -14,6 +14,28 @@ Here are some ideas to get you started: -->
 - 🔭 Aspiring Data Scientist 
 - ❤ Currently Learning Machine Learning
 
+
+<p align="center">
+  <img src="https://github.com/ROCKET19/ROCKET19/blob/main/Code%20is%20Poetry.jpg" />
+</p>
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ROCKET19/count.svg" />
+</p>
+
+
+
+<p style="justify-contect: space-between;">
+
+![Sankar Ramaswamy Github Stats](https://github-readme-stats.vercel.app/api?username=ROCKET19&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="300px" height="195px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+
+</p>
+
+
 ### My Stack
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
