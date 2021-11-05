@@ -15,10 +15,10 @@ Here are some ideas to get you started: -->
 - ❤ Currently Learning Machine Learning
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/ROCKET19/ROCKET19/blob/main/Code%20is%20Poetry.jpg" />
 </p>
-
+ -->
 
 
 <p align="center"> 
