@@ -1,5 +1,7 @@
 ### Hi there 👋
-### I am [Sankar Ramaswamy](https://www.linkedin.com/in/sankar-ramaswamy-499a67195/).
+### I am [Sankar Ramaswamy](https://rocket19.github.io/DA_Portfolio/).
+
+#### You can contact me [here](https://www.linkedin.com/in/sankar-ramaswamy-499a67195/).
 
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/) -->
 
