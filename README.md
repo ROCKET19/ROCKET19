@@ -10,9 +10,9 @@
 
 Here are some ideas to get you started: -->
 
+- 🔭 Site Reliability Engineer at Cisco 
 - 💻 Masters in Computer Application
-- 🔭 Aspiring Data Scientist 
-- ❤ Currently Learning Machine Learning
+- ❤ Currently Learning AWS, Kubernetes
 
 
 <!-- <p align="center">
